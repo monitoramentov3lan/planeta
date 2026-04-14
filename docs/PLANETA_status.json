@@ -1,8 +1,54 @@
 {
   "garagem": "PLANETA",
-  "online": 0,
-  "offline": "ERRO",
-  "last_update": "2026-04-14T16:20:18.648305-03:00",
-  "panel_url": "N/A",
-  "tgs_history": []
+  "online": 6,
+  "offline": 0,
+  "last_update": "2026-04-14T17:10:19.375645-03:00",
+  "panel_url": "https://monitoramentov3lan.github.io/planeta/COMUNICAÇÕES_PLANETA.html",
+  "tgs_history": [
+    {
+      "data": "13/04/2026",
+      "count": 6,
+      "filename": "TGs_20260413.txt"
+    },
+    {
+      "data": "12/04/2026",
+      "count": 2,
+      "filename": "TGs_20260412.txt"
+    },
+    {
+      "data": "11/04/2026",
+      "count": 3,
+      "filename": "TGs_20260411.txt"
+    },
+    {
+      "data": "10/04/2026",
+      "count": 5,
+      "filename": "TGs_20260410.txt"
+    },
+    {
+      "data": "09/04/2026",
+      "count": 5,
+      "filename": "TGs_20260409.txt"
+    },
+    {
+      "data": "08/04/2026",
+      "count": 7,
+      "filename": "TGs_20260408.txt"
+    },
+    {
+      "data": "07/04/2026",
+      "count": 7,
+      "filename": "TGs_20260407.txt"
+    },
+    {
+      "data": "06/04/2026",
+      "count": 6,
+      "filename": "TGs_20260406.txt"
+    },
+    {
+      "data": "05/04/2026",
+      "count": 2,
+      "filename": "TGs_20260405.txt"
+    }
+  ]
 }
